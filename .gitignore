@@ -1,3 +1,7 @@
+# My custom
+__debug_bin
+TestPage.txt
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
